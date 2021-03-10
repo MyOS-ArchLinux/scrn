@@ -17,6 +17,6 @@ including copying the image or even highlighting an area to copy.
 ```
 git clone https://github.com/MyOS-ArchLinux/scrn
 cd scrn/
-sudo install -m755 scrn /bin/local/scrn
+sudo install -m755 scrn /usr/local/bin/scrn
 ```
 [set a keyboard shortcuts](https://wiki.archlinux.org/index.php/Keyboard_shortcuts)
